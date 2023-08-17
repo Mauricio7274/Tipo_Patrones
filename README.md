@@ -1,1 +1,3 @@
-# Tipo_Patrones
+Grupo:
+Andres Fuentes
+Mauricio Andres Valderrama
