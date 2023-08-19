@@ -23,6 +23,8 @@ Diagramas de clases
 
 2:
 
+![Captura de pantalla 2023-08-19 003442](https://github.com/Mauricio7274/Tipo_Patrones/assets/99046250/6dac06af-e8fa-4cd0-9170-e02ae0f22183)
+
 3:
 
 
