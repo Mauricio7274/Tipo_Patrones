@@ -8,7 +8,6 @@ public class PlataformaPago {
         this.metodoProvisto = metodoProvisto;
     }
     public void ProcesarPagoOrden() {
-        // Lógica de procesamiento de pago
         metodoProvisto.ProcesoPago();
     }
 }
