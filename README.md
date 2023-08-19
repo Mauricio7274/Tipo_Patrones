@@ -26,7 +26,8 @@ Diagramas de clases
 3:
 
 
-![WhatsApp Image 2023-08-19 at 12 13 59 AM (1)](https://github.com/Mauricio7274/Tipo_Patrones/assets/99046250/946963cb-0327-4e92-98ca-0d4e938da94a)
+
+![WhatsApp Image 2023-08-18 at 11 51 33 PM (1)](https://github.com/Mauricio7274/Tipo_Patrones/assets/99046250/53c235a6-1ba8-4f48-8480-9945b734f4f8)
 
 
 
