@@ -41,7 +41,6 @@ import java.util.List;
         }
 
 
-        // Métodos getter y setter para los atributos
-        // ...
+      
     }
 
